@@ -1,2 +1,3 @@
 # hello-word
-cui的
+hi humans 
+this  is  my  first chengxu
